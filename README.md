@@ -1,3 +1,3 @@
 # githubtest
-Just a test /n
-Testing a commit
+Just a test  
+Testing a commit  
